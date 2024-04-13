@@ -96,3 +96,4 @@ The following people should consult their doctor before using this product
 - Keep the product clean and dry at all times
 - Cover the product with a cloth to prevent dust from entering when it is not in use
 
+### Troubleshooting your product
