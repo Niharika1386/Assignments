@@ -98,4 +98,6 @@ The following people should consult their doctor before using this product
 
 ### Troubleshooting your product
 
-| Problem |	Possible cause |	Solution |
+| Problem                   |	Possible cause |	Solution |
+|---------------------------|----------------|-----------|
+| Massager does not turn on |	Power is off | Check if there is power supply and the power plug is plugged in properly |
