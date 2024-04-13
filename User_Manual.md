@@ -119,7 +119,7 @@ The following people should consult their doctor before using this product
 
 ### Technical Support
 For any feedback or complain, you can also connect us at: UNIVERSAL CORPORATION LIMITED, 4/ 1 Middleton Street, Sikkim Commerce House, Kolkata-700071
-Email Address: ==lnfo@ucllndla.com==
-Customer Care No: 9821486487
-To checkout wide range of AGARO products, please visit [Agaro Lifestyle](www.agarolifestyle.com).
+Email Address: <lnfo@ucllndla.com>
+Customer Care No: <9821486487>
+To checkout wide range of AGARO products, please visit <www.agarolifestyle.com>
 Please preserve the invoice for product warranty claims. Customer purchasing from online platforms needs to produce the Online Partner’s Invoice copy to claim the warranty
