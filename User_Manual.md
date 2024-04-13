@@ -104,3 +104,4 @@ The following people should consult their doctor before using this product
 | Massager does not respond |	Function buttons are not responding	| Unplug the massager, plug it in and restart the massager using the power button |
 | Massager stops operating suddenly | No power | Check the power supply |
 | | 15 minute massage session has ended | Press the power button to start another massage session|
+| | Overheating due to prolonged use | Unplug the massager and allow it to cool for 60 minutes before using it again |
