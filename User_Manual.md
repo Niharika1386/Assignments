@@ -3,6 +3,8 @@
 ## Amaze Foot and Calf Massager
 
 ## User Manual
+
+
 ![Foot_Massager](https://github.com/Niharika1386/Assignments/assets/166905323/ba82fc6b-266a-4818-bab6-31826bb2029c)
 
 
@@ -31,9 +33,11 @@ The following people should consult their doctor before using this product
 - People whose skin is sensitive to excess heat
 
 
-### Know your product
+### Know your product  
+
 
 ![Massager_2](https://github.com/Niharika1386/Assignments/assets/166905323/526a9694-7682-41c5-8e82-6e6e52404aeb)
+
 
 #### Massager Components
 - The Agaro Amaze Foot and Calf Massager has one power cord and five main components
@@ -43,7 +47,9 @@ The following people should consult their doctor before using this product
 - Main body that houses the rest of the components
 - Massage Rollers that massage the soles of the heat
 
+
 ![Control_Panel](https://github.com/Niharika1386/Assignments/assets/166905323/e36567b2-df29-4617-b123-ed0f12b2ec15)
+
 
 #### Control Panel Components
 - The control panel contains four buttons
