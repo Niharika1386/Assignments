@@ -3,9 +3,11 @@
 ## Amaze Foot and Calf Massager
 
 ## User Manual
+![Foot_Massager](https://github.com/Niharika1386/Assignments/assets/166905323/ba82fc6b-266a-4818-bab6-31826bb2029c)
 
 
 ### Important Warnings
+
 - Please use this product according to the instructions given in this manual
 - Do not place any objects between the main body and the casing of the massager
 - Do not use place any liquids near the massager to avoid short-circuit
@@ -28,7 +30,10 @@ The following people should consult their doctor before using this product
 - Women who are pregnant
 - People whose skin is sensitive to excess heat
 
+
 ### Know your product
+
+![Massager_2](https://github.com/Niharika1386/Assignments/assets/166905323/526a9694-7682-41c5-8e82-6e6e52404aeb)
 
 #### Massager Components
 - The Agaro Amaze Foot and Calf Massager has one power cord and five main components
@@ -38,6 +43,8 @@ The following people should consult their doctor before using this product
 - Main body that houses the rest of the components
 - Massage Rollers that massage the soles of the heat
 
+![Control_Panel](https://github.com/Niharika1386/Assignments/assets/166905323/e36567b2-df29-4617-b123-ed0f12b2ec15)
+
 #### Control Panel Components
 - The control panel contains four buttons
 - The vibration/heat button controls the vibration and heating elements
@@ -45,7 +52,9 @@ The following people should consult their doctor before using this product
 - The foot button controls the massage rollers that massage the soles of the feet
 - The power button controls the start and stop of the massage session
 
+
 ### How to use
+
 ##### Power button
 - The power button turns the massager on/off
 - Press once: The massager is turned on and the indicator is red
@@ -80,7 +89,9 @@ The following people should consult their doctor before using this product
 - If the massager is still on after 15 minutes, the massagers stops by itself
 - If any of the buttons/settings are changed in the middle of the session, then the 15 minute massage session is starts again with the new settings
 
+
 ### Maintaining your product
+
 #### Storage
 - Store the massager in a clean, dry and well ventilated place when it is not being used
 - Keep sharp objects away from the massager
@@ -96,6 +107,7 @@ The following people should consult their doctor before using this product
 - Keep the product clean and dry at all times
 - Cover the product with a cloth to prevent dust from entering when it is not in use
 
+
 ### Troubleshooting your product
 
 | Problem                   |	Possible cause                      |	Solution |
@@ -105,6 +117,7 @@ The following people should consult their doctor before using this product
 | Massager stops operating suddenly | No power | Check the power supply |
 | | 15 minute massage session has ended | Press the power button to start another massage session|
 | | Overheating due to prolonged use | Unplug the massager and allow it to cool for 60 minutes before using it again |
+
 
 ### Specifications
 
@@ -117,9 +130,11 @@ The following people should consult their doctor before using this product
 | Included components	| Agaro HCD |
 | Rated Power	| 80W |
 
+
 ### Technical Support
+
 For any feedback or complain, you can also connect us at: UNIVERSAL CORPORATION LIMITED, 4/ 1 Middleton Street, Sikkim Commerce House, Kolkata-700071  
 Email Address: <lnfo@ucllndla.com>  
 Customer Care No: __9821486487__  
-To checkout wide range of AGARO products, please visit <www.agarolifestyle.com>.  
+To checkout wide range of AGARO products, please visit <www.agarolifestyle.com>  
 Please preserve the invoice for product warranty claims. Customer purchasing from online platforms needs to produce the Online Partner’s Invoice copy to claim the warranty
