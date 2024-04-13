@@ -102,3 +102,5 @@ The following people should consult their doctor before using this product
 |---------------------------|-------------------------------------|-----------|
 | Massager does not turn on |	Power is off                        | Check if there is power supply and the power plug is plugged in properly |
 | Massager does not respond |	Function buttons are not responding	| Unplug the massager, plug it in and restart the massager using the power button |
+| Massager stops operating suddenly | No power | Check the power supply |
+| | 15 minute massage session has ended | Press the power button to start another massage session|
