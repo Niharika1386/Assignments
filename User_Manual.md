@@ -105,3 +105,22 @@ The following people should consult their doctor before using this product
 | Massager stops operating suddenly | No power | Check the power supply |
 | | 15 minute massage session has ended | Press the power button to start another massage session|
 | | Overheating due to prolonged use | Unplug the massager and allow it to cool for 60 minutes before using it again |
+
+### Specifications
+
+| Generic name | Generic name	Amaze Foot Massager 80W with 3 Speed Settings |
+|--------------|------------------------------------------------------------|
+| Model Number | 33320 |
+| Manufacturer | Universal Corporation Ltd, Yongkang , Zhejiang , China |
+| Dimensions | 56 x 56 x 46.5 cm |
+| Weight	| 12.5 kg |
+| Included components	| Agaro HCD |
+| Rated Power	| 80W |
+
+### Technical Support
+For any feedback or complain, you can also connect us at:
+UNIVERSAL CORPORATION LIMITED, 4/ 1 Middleton Street, Sikkim Commerce House, Kolkata-700071
+Email Address : ==lnfo@ucllndla.com==
+Customer Care No: 9821486487
+To checkout wide range of AGARO products, please visit [title](www.agarolifestyle.com)
+Please preserve the invoice for product warranty claims. Customer purchasing from online platforms needs to produce the Online Partner’s Invoice copy to claim the warranty
